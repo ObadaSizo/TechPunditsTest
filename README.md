@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Authors
-- Your Name - Initial work
+- Obada Rudainy - Initial work
 
 ## 🙏 Acknowledgments
 - Next.js team for the amazing framework
