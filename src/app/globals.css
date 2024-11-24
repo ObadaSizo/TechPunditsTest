@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-color: #ffffff;
+  --background-color-2: #F6F6F7;
+  --text-color: #181A2A;
+  --ads-bg : #E8E8EA;
+  --border-color : #E8E8EA ;
+  --footer-color : #F6F6F7 ;
+  --logo-text-color : #141624;
+  --nav-links-text-color : #3B3C4A; 
+  --nav-secondry-text-color : #696A75;
+  --footer-box-bg-color : #FFFFFF ;
+  --border-secondry-color : #DCDDDF ;
+  --footer-span : #141624;
+  --paragraph-color-bolgs : #3B3C4A ;
+  --author-text-color : #696A75;
+}
+
+[data-theme="dark"] {
+  --background-color: #181A2A;
+  --background-color-2: #242535;
+  --text-color: #ffffff;
+  --ads-bg : #242535;
+  --border-color : #242535 ;
+  --footer-color : #141624 ;
+  --logo-text-color : #ffffff;
+  --nav-links-text-color : #BABABF;
+  --nav-secondry-text-color : #97989F;
+  --footer-box-bg-color : #242535 ;
+  --border-secondry-color : #3B3C4A ;
+  --footer-span : #FFFFFF;
+  --paragraph-color-bolgs : #BABABF ;
+  --author-text-color : #BABABF;
+}
+
+input:focus , input:focus-visible , input:focus-within , input:active  {
+  outline: none;
+}
+
+
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.box-shadow-left {
+  box-shadow: -4px 0 0 0 #E8E8EA;
+}

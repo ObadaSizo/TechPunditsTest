@@ -1,0 +1,173 @@
+{
+    "authors": [
+      {
+        "name": "Jason Francisco",
+        "image": "/usersIcons/user5.png",
+        "bio": "Tech enthusiast and software engineer with over 10 years of experience. Passionate about exploring emerging technologies and their impact on society.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/jasonfrancisco",
+          "twitter": "https://twitter.com/jasonfrancisco",
+          "instagram": "https://instagram.com/jasonfrancisco",
+          "youtube": "https://youtube.com/jasonfrancisco"
+        },
+        "expertise": ["Technology", "Software Development", "AI"],
+        "totalPosts": 15
+      },
+      {
+        "name": "Emily Chen",
+        "image": "/usersIcons/user2.png",
+        "bio": "Culinary expert and food culture researcher with a passion for exploring global cuisines. Through her writing, Emily bridges cultural gaps using the universal language of food.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/emilychen",
+          "twitter": "https://twitter.com/emilychen",
+          "instagram": "https://instagram.com/emilychen",
+          "youtube": "https://youtube.com/emilychen"
+        },
+        "expertise": ["Food Culture", "Culinary Arts", "Travel"],
+        "totalPosts": 8
+      },
+      {
+        "name": "Alex Johnson",
+        "image": "/usersIcons/user3.png",
+        "bio": "Innovation strategist and technology consultant specializing in emerging trends. With a background in both business and technology, Alex helps organizations navigate the future of innovation.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/alexjohnson",
+          "twitter": "https://twitter.com/alexjohnson",
+          "instagram": "https://instagram.com/alexjohnson",
+          "youtube": "https://youtube.com/alexjohnson"
+        },
+        "expertise": ["Innovation", "Strategy", "Digital Transformation"],
+        "totalPosts": 12
+      },
+      {
+        "name": "Sophia Lee",
+        "image": "/usersIcons/user4.png",
+        "bio": "Health and wellness expert with a focus on holistic living. Sophia combines traditional wisdom with modern research to help readers achieve balanced, healthy lifestyles.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/sophialee",
+          "twitter": "https://twitter.com/sophialee",
+          "instagram": "https://instagram.com/sophialee",
+          "youtube": "https://youtube.com/sophialee"
+        },
+        "expertise": ["Health", "Wellness", "Mindfulness"],
+        "totalPosts": 9
+      },
+      {
+        "name": "Michael Brown",
+        "image": "/usersIcons/user6.png",
+        "bio": "Financial analyst and investment strategist with expertise in market trends and personal finance. Michael helps readers make informed decisions about their financial future.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/michaelbrown",
+          "twitter": "https://twitter.com/michaelbrown",
+          "instagram": "https://instagram.com/michaelbrown",
+          "youtube": "https://youtube.com/michaelbrown"
+        },
+        "expertise": ["Finance", "Investment", "Market Analysis"],
+        "totalPosts": 11
+      },
+      {
+        "name": "Linda Green",
+        "image": "/usersIcons/user7.png",
+        "bio": "Environmental scientist and sustainability advocate. Linda writes about eco-friendly practices and environmental conservation, making complex topics accessible to all readers.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/lindagreen",
+          "twitter": "https://twitter.com/lindagreen",
+          "instagram": "https://instagram.com/lindagreen",
+          "youtube": "https://youtube.com/lindagreen"
+        },
+        "expertise": ["Environmental Science", "Sustainability", "Conservation"],
+        "totalPosts": 7
+      },
+      {
+        "name": "David White",
+        "image": "/usersIcons/user8.png",
+        "bio": "Travel photographer and adventure journalist documenting cultural experiences worldwide. David's stories inspire readers to explore and appreciate global diversity.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/davidwhite",
+          "twitter": "https://twitter.com/davidwhite",
+          "instagram": "https://instagram.com/davidwhite",
+          "youtube": "https://youtube.com/davidwhite"
+        },
+        "expertise": ["Travel Photography", "Cultural Documentation", "Adventure"],
+        "totalPosts": 10
+      },
+      {
+        "name": "Emma Wilson",
+        "image": "/usersIcons/user9.png",
+        "bio": "Digital art director and UX design specialist focusing on user-centered design principles. Emma shares insights about creating engaging digital experiences.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/emmawilson",
+          "twitter": "https://twitter.com/emmawilson",
+          "instagram": "https://instagram.com/emmawilson",
+          "youtube": "https://youtube.com/emmawilson"
+        },
+        "expertise": ["UX Design", "Digital Art", "User Experience"],
+        "totalPosts": 8
+      },
+      {
+        "name": "Chris Martin",
+        "image": "/usersIcons/user10.png",
+        "bio": "Software architect and cloud computing expert specializing in scalable solutions. Chris writes about modern development practices and cloud technologies.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/chrismartin",
+          "twitter": "https://twitter.com/chrismartin",
+          "instagram": "https://instagram.com/chrismartin",
+          "youtube": "https://youtube.com/chrismartin"
+        },
+        "expertise": ["Cloud Computing", "Software Architecture", "DevOps"],
+        "totalPosts": 13
+      },
+      {
+        "name": "Olivia Brown",
+        "image": "/usersIcons/user11.png",
+        "bio": "Mental health counselor and relationship expert helping readers navigate personal growth and relationships. Olivia combines professional expertise with compassionate guidance.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/oliviabrown",
+          "twitter": "https://twitter.com/oliviabrown",
+          "instagram": "https://instagram.com/oliviabrown",
+          "youtube": "https://youtube.com/oliviabrown"
+        },
+        "expertise": ["Mental Health", "Relationships", "Personal Development"],
+        "totalPosts": 9
+      },
+      {
+        "name": "Sophia Davis",
+        "image": "/usersIcons/user12.png",
+        "bio": "Fashion journalist and sustainable style advocate promoting conscious consumption. Sophia covers fashion trends while emphasizing environmental responsibility.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/sophiadavis",
+          "twitter": "https://twitter.com/sophiadavis",
+          "instagram": "https://instagram.com/sophiadavis",
+          "youtube": "https://youtube.com/sophiadavis"
+        },
+        "expertise": ["Fashion", "Sustainable Style", "Trend Analysis"],
+        "totalPosts": 7
+      },
+      {
+        "name": "James Anderson",
+        "image": "/usersIcons/user13.png",
+        "bio": "Fitness trainer and nutrition specialist focusing on evidence-based approaches to health. James helps readers achieve their fitness goals through practical advice.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/jamesanderson",
+          "twitter": "https://twitter.com/jamesanderson",
+          "instagram": "https://instagram.com/jamesanderson",
+          "youtube": "https://youtube.com/jamesanderson"
+        },
+        "expertise": ["Fitness", "Nutrition", "Health Science"],
+        "totalPosts": 11
+      },
+      {
+        "name": "Laura Thompson",
+        "image": "/usersIcons/user14.png",
+        "bio": "Educational technology researcher and digital learning specialist. Laura explores how technology transforms education and shares innovative teaching methods.",
+        "socialLinks": {
+          "facebook": "https://facebook.com/laurathompson",
+          "twitter": "https://twitter.com/laurathompson",
+          "instagram": "https://instagram.com/laurathompson",
+          "youtube": "https://youtube.com/laurathompson"
+        },
+        "expertise": ["EdTech", "Digital Learning", "Education Innovation"],
+        "totalPosts": 8
+      }
+    ]
+  }
